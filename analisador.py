@@ -13,6 +13,6 @@ print("\n Informacoes do DataFrame: ")
 print(df.info())
 
 print("\n Nomes das colunas do DataFrame: ")
-print(df.columns.tolist())  
+print(df.columns.tolist())   
 
 
